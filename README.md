@@ -23,8 +23,6 @@
 	<li>execute the project using Qt's build tools.</li>
 </ol>
 
-<p>Note: Smart Transport is currently only available for Windows.</p>
-
 <h2>Usage</h2>
 
 <p>To use Smart Transport, simply launch the application and start managing your transportation system. The user
